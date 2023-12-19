@@ -1,6 +1,6 @@
-# Leavitt et al. (2023) supplemental
+# Rhim et al. (in prep) supplemental
 
-This repository holds data and supplementary source code for *W. Leavitt, S. H. Kopf, Y. Weber, B. Chiu, J. M. McFarlin, F. Elling, S. Hoeft-McCann, A. Pearson (submitted). Controls on the hydrogen isotope composition of tetraether lipids in a marine thaumarchaeon*.
+This repository holds data and supplementary source code for *J. H. Rhim, S. Kopf, J. McFarlin, H. Batther, C. M. Harris, A. Zhou, X. Feng, Y. Weber, S. Hoeft-McCann, A. Pearson, and W. D. Leavitt (in prep). The hydrogen isotope signatures of autotrophy versus heterotrophy recorded in archaeal tetraether lipids*. This README file was interited from the one described in Leavitt, Kopf et al. (2023): https://github.com/KopfLab/2023_leavitt_et_al.
 
 ## What can I do with this code? <a href="https://creativecommons.org/licenses/by/4.0/"><img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by.png" align = "right" width = "100"/></a>
 
